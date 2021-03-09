@@ -1,8 +1,8 @@
 body{
-  background: black;
+  background: linear-gradient(white,pink);
   color: white;
 }
 .Space shooter{
 color: white;
- backgorund: linear-gradiant(blue,cyan,red)
+backgorund-color: linear-gradient(blue,aqua,red)
 }

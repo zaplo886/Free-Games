@@ -8,3 +8,8 @@ body{
     font-family: inherit;
     background: linear-gradient(aliceBlue,LightBlue,aqua);
 }
+button {
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+}
